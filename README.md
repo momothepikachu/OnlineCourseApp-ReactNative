@@ -18,3 +18,6 @@ npm install
 react-native run-android
 ```
 
+Course:
+
+[From React to React Native--Emmanuel Henri](https://www.lynda.com/React-Native-tutorials/From-React-React-Native/577371-2.html)
