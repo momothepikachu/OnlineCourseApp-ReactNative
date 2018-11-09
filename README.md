@@ -1,7 +1,7 @@
 # OnlineCourseApp-ReactNative
 This is an Online Course App built with React Native that provides a directory of React courses on Lynda.com
 
-![screenshot](example.gif)
+![screenshot](screen.gif)
 
 ## How to Open
  - Preparing the Android device
