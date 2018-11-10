@@ -1,7 +1,7 @@
 # OnlineCourseApp-ReactNative
 This is an Online Course App built with React Native that provides a directory of React courses on Lynda.com
 
-[`Download from Google Play Store`](https://play.google.com/store/apps/details?id=com.courses)
+[Download from Google Play Store](https://play.google.com/store/apps/details?id=com.courses)
 
 ![screenshot](screen.gif)
 
